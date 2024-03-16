@@ -31,8 +31,8 @@ Como este proyecto se ha desarrollado para poder realizar el proyecto de la asig
 # Prueba
 Probado para:
 	- Linux Ubuntu LTS 22.04.
-	- gcc 11.3.0
-	- g++ 11.3.0
+ 	- gcc 11.3.0
+  	- g++ 11.3.0
 
 Ha sido probado en una ejercicio sencillo de envío y transferencia a través de la línea A. 
 
