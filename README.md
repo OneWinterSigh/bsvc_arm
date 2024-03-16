@@ -16,7 +16,8 @@ Este es un fichero en el que voy a incluir el proceso realizado para hacer funci
                 - tcl/tk
         Partiendo desde /bsvc-2.4.6
         2.b Sigo las instrucciones de INSTALL.md para customizar el archivo correspondiente a tu sistema.
-        2.c Una vez personalizado compilo el proyecto usando `make -f Makefile.tusistema'
+   		(No he cambiado nada de INSTALL.Linux en mi caso)
+        2.c Una vez personalizado compilo el proyecto usando `make -f Makefile.tusistema`
         2.d Instalo con `make -f Makefile.tusistema install`
 
 Con el último paso ya tendríamos tanto bsvc como 68kasm instalado en el sistema.
