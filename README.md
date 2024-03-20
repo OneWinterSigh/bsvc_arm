@@ -36,4 +36,7 @@ Probado para:
 
 Ha sido probado en una ejercicio sencillo de envío y transferencia a través de la línea A. 
 
+# Problemas
+En esta versión de bsvc la línea de interrupción 4 no funciona correctamente. Esto me sucede al ejecutar una RTI(rutina de tratamiento de interrupción) diseñada por mi, al cabo de 2 instrucciones, y sin haber ejecutado ninguna instrucción de bifurcación, salta de nuevo al inicio de la RTI y no actualiza el PC.
+
 Actualizaré si hay más que saber.
